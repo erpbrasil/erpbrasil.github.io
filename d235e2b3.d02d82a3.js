@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{78:function(p){p.exports=JSON.parse('{"allTagsPath":"https://erpbrasil.github.io/erpbrasil/blog/tags","slug":"erp","name":"erp","count":3,"permalink":"https://erpbrasil.github.io/erpbrasil/blog/tags/erp"}')}}]);
